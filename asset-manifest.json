@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.js": "/ContactmanagerApp/static/js/main.f5b177a8.chunk.js",
+    "main.js.map": "/ContactmanagerApp/static/js/main.f5b177a8.chunk.js.map",
+    "runtime-main.js": "/ContactmanagerApp/static/js/runtime-main.4963ea8d.js",
+    "runtime-main.js.map": "/ContactmanagerApp/static/js/runtime-main.4963ea8d.js.map",
+    "static/css/2.47e06e2e.chunk.css": "/ContactmanagerApp/static/css/2.47e06e2e.chunk.css",
+    "static/js/2.e9598a36.chunk.js": "/ContactmanagerApp/static/js/2.e9598a36.chunk.js",
+    "static/js/2.e9598a36.chunk.js.map": "/ContactmanagerApp/static/js/2.e9598a36.chunk.js.map",
+    "index.html": "/ContactmanagerApp/index.html",
+    "precache-manifest.f2992966ca7f8ee1154902079e49c726.js": "/ContactmanagerApp/precache-manifest.f2992966ca7f8ee1154902079e49c726.js",
+    "service-worker.js": "/ContactmanagerApp/service-worker.js",
+    "static/css/2.47e06e2e.chunk.css.map": "/ContactmanagerApp/static/css/2.47e06e2e.chunk.css.map",
+    "static/js/2.e9598a36.chunk.js.LICENSE.txt": "/ContactmanagerApp/static/js/2.e9598a36.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4963ea8d.js",
+    "static/css/2.47e06e2e.chunk.css",
+    "static/js/2.e9598a36.chunk.js",
+    "static/js/main.f5b177a8.chunk.js"
+  ]
+}
